@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "660419195041",
+    "firebase_url": "https://fir-f9d67.firebaseio.com",
+    "project_id": "fir-f9d67",
+    "storage_bucket": "fir-f9d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660419195041:android:26fd9b960cbf4226",
+        "android_client_info": {
+          "package_name": "com.youtubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660419195041-8sogls6gleva63ok8srha2pkt69feqts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCguf89eg0_7Wayc01Hq_CAK9PbCFR27gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

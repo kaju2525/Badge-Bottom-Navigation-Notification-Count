@@ -1,0 +1,93 @@
+//open Google Play Updated click_action=1
+
+https://pushtry.com/
+
+
+
+ 
+ // 1. Open Google PlayStore
+{
+"to": "c0GQMZ3B8mI:APA91bHvQVjrpvEG6JAQmuitkJnPlGJ2imwQx0JSwoYGyzZ2-UFz6XIf1-kCqF2B6s0IxAh5nV5xnOp5emICUbXw0UrMC4lIVoFOI3utPwn-gt_IBtPkkKi4SQvSsLWB4xtOdsa8RLkb",
+"data": {
+       	
+		 "title": "Hii Dear",
+         "message": "Please Confirm me ",
+         "clickAction": "1",
+		 "appSetPackage": "com.google.android.youtube",
+		 "youtubeQuery": "karunkumar2525",
+		 "avatarUrl": "http://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2016/10/New-Year-in-Hong-Kong.jpg",
+		 "ride_id":"56",
+          "action_url": "in.startv.hotstar&hl=en"
+      }
+}
+
+//open webSite click_action=2
+{
+"to": "c0GQMZ3B8mI:APA91bHvQVjrpvEG6JAQmuitkJnPlGJ2imwQx0JSwoYGyzZ2-UFz6XIf1-kCqF2B6s0IxAh5nV5xnOp5emICUbXw0UrMC4lIVoFOI3utPwn-gt_IBtPkkKi4SQvSsLWB4xtOdsa8RLkb",
+"data": {
+
+
+         "title": "Hii Dear",
+         "message": "Please Confirm me ",
+         "clickAction": "2",
+		 "appSetPackage": "com.google.android.youtube",
+		 "youtubeQuery": "karunkumar2525",
+		 "avatarUrl": "http://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2016/10/New-Year-in-Hong-Kong.jpg",
+		 "ride_id":"56",
+         "action_url": "http://karunkumar.in/"
+      }
+}
+
+
+//open =3  Youbube Open with Image
+{
+"to": "ecuslfX9kyY:APA91bEgQAcnYLs12NTsSUKGtYKQz1dvemhmOTN-9PH6EwoR5Uay1IrkqZnpqnLOqNE726-QGvgT3wNUBTPN8wkz2hN46IFHAu5Yyq-d3ovNPgvJQxNjGXLAYzdPBqHVF_NJ2X2MYBufYNVYq48w3zB9BUJXcgZiNw",
+"data": {
+
+        "title": "Hii Dear",
+         "message": "Please Confirm me ",
+         "clickAction": "3",
+		 "appSetPackage": "com.google.android.youtube",
+		 "youtubeQuery": "karunkumar2525",
+		 "avatarUrl": "http://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2016/10/New-Year-in-Hong-Kong.jpg",
+		 "ride_id":"56",
+         "action_url": ""
+      }
+}
+
+
+//open Activity =4
+{
+"to": "c0GQMZ3B8mI:APA91bHvQVjrpvEG6JAQmuitkJnPlGJ2imwQx0JSwoYGyzZ2-UFz6XIf1-kCqF2B6s0IxAh5nV5xnOp5emICUbXw0UrMC4lIVoFOI3utPwn-gt_IBtPkkKi4SQvSsLWB4xtOdsa8RLkb",
+"data": {
+
+         "title": "Hii Dear",
+         "message": "Please Confirm me ",
+         "clickAction": "4",
+		 "appSetPackage": "com.google.android.youtube",
+		 "youtubeQuery": "karunkumar2525",
+		 "avatarUrl": "http://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2016/10/New-Year-in-Hong-Kong.jpg",
+		 "ride_id":"56",
+         "action_url": ""
+		
+      }
+}
+
+
+//open Activity image click_action=5
+{
+"to": "c0GQMZ3B8mI:APA91bHvQVjrpvEG6JAQmuitkJnPlGJ2imwQx0JSwoYGyzZ2-UFz6XIf1-kCqF2B6s0IxAh5nV5xnOp5emICUbXw0UrMC4lIVoFOI3utPwn-gt_IBtPkkKi4SQvSsLWB4xtOdsa8RLkb",
+"data": {
+         "title": "Hii Dear",
+         "message": "Please Confirm me ",
+         "clickAction": "5",
+		 "appSetPackage": "com.google.android.youtube",
+		 "youtubeQuery": "karunkumar2525",
+		 "avatarUrl": "http://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2016/10/New-Year-in-Hong-Kong.jpg",
+		 "ride_id":"56",
+         "action_url": ""
+      }
+}
+//
+
+
